@@ -21,3 +21,11 @@ git clone https://github.com/mineral-pentagon/fe-mn-diabetes.git
 cd fe-mn-diabetes
 pip install -r requirements.txt
 python FeMn_diabetes_analysis.py
+
+## Sample Result Plot
+
+The following plot illustrates the relationship between the iron-to-manganese (Fe/Mn) ratio and diabetes prevalence based on data from the U.S. NHANES survey.
+
+![Fe/Mn Diabetes Plot](FeMn_diabetes_plot.png)
+
+The plot clearly shows an increasing trend in diabetes prevalence as the Fe/Mn ratio rises, supporting the scientific hypothesis that mineral ratios are correlated with diabetes risk.
