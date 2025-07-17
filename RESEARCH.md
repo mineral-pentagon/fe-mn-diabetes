@@ -10,8 +10,6 @@ We propose a scientific hypothesis that an elevated Fe/Mn ratio combined with ir
 
 - Analysis of NHANES 2017-2018 data shows a **positive exponential correlation** between Fe/Mn ratio and diabetes prevalence.
 - Single mineral levels (iron or manganese alone) do not display simple correlations with diabetes.
-- Copper/Zinc (Cu/Zn) ratio also shows significant association with diabetes, suggesting multiple mineral ratios influence risk.
-- Multivariate models and 3D risk surface visualization demonstrate combined effects of Fe/Mn and Cu/Zn ratios on diabetes risk.
   
 ## Hypothesis (Axiom)
 
